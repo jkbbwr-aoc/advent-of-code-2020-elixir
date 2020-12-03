@@ -15,6 +15,10 @@
       <excludeFolder url="file://$MODULE_DIR$/logs" />
       <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/deep_merge" />
       <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/benchee" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/release/lib/benchee" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/release/lib/deep_merge" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/benchee" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/deep_merge" />
     </content>
     <orderEntry type="jdk" jdkName="Elixir 1.10.3" jdkType="Elixir SDK" />
     <orderEntry type="sourceFolder" forTests="false" />

@@ -5,9 +5,16 @@
       <root url="file://$PROJECT_DIR$/_build/dev/lib/benchee/ebin" />
       <root url="file://$PROJECT_DIR$/_build/dev/lib/benchee/ebin" />
       <root url="file://$PROJECT_DIR$/_build/dev/lib/benchee/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/benchee/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/release/lib/benchee/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/benchee/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/benchee/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/release/lib/benchee/ebin" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
+      <root url="file://$PROJECT_DIR$/deps/benchee/lib" />
+      <root url="file://$PROJECT_DIR$/deps/benchee/lib" />
       <root url="file://$PROJECT_DIR$/deps/benchee/lib" />
       <root url="file://$PROJECT_DIR$/deps/benchee/lib" />
       <root url="file://$PROJECT_DIR$/deps/benchee/lib" />
