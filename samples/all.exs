@@ -1,4 +1,4 @@
-alias Aoc2020.{Day1, Day2, Day3}
+alias Aoc2020.{Day1, Day2, Day3, Day4}
 
 Benchee.run(
   %{
@@ -8,6 +8,8 @@ Benchee.run(
     "day 2 part 2" => fn -> Day2.part2() end,
     "day 3 part 1" => fn -> Day3.part1() end,
     "day 3 part 2" => fn -> Day3.part2() end,
+    "day 4 part 1" => fn -> Day4.part1() end,
+    "day 4 part 2" => fn -> Day4.part2() end,
   },
   formatters: [
     {

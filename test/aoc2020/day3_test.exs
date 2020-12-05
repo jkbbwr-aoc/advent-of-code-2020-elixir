@@ -1,7 +1,6 @@
 defmodule Day3Test do
   use ExUnit.Case
   alias Aoc2020.Day3
-  doctest Aoc2020
 
   test "day 3 part 1" do
     assert Day3.part1() == 171
