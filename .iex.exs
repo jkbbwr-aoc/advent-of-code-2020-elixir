@@ -1,1 +1,1 @@
-alias Aoc2020.{Day1, Day2, Day3, Day4, Day5}
+alias Aoc2020.{Day1, Day2, Day3, Day4, Day5, Day6}
