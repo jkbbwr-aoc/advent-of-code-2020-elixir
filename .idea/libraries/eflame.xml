@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="eflame" type="mix">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/eflame/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/eflame/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/eflame/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/eflame/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/eflame/ebin" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/deps/eflame/src" />
+      <root url="file://$PROJECT_DIR$/deps/eflame/src" />
+      <root url="file://$PROJECT_DIR$/deps/eflame/src" />
+      <root url="file://$PROJECT_DIR$/deps/eflame/src" />
+      <root url="file://$PROJECT_DIR$/deps/eflame/src" />
+    </SOURCES>
+  </library>
+</component>
