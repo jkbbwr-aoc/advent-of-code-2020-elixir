@@ -22,7 +22,7 @@
       <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/eflame" />
       <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/eflame" />
     </content>
-    <orderEntry type="jdk" jdkName="Elixir 1.10.4" jdkType="Elixir SDK" />
+    <orderEntry type="jdk" jdkName="Elixir 1.11.0" jdkType="Elixir SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="benchee" level="project" />
     <orderEntry type="library" name="deep_merge" level="project" />
