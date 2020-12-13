@@ -21,6 +21,8 @@
       <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/deep_merge" />
       <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/eflame" />
       <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/eflame" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/backtrex" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/backtrex" />
     </content>
     <orderEntry type="jdk" jdkName="Elixir 1.11.0" jdkType="Elixir SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
@@ -34,5 +36,6 @@
     <orderEntry type="library" name="inch_ex" level="project" />
     <orderEntry type="library" name="dialyxir" level="project" />
     <orderEntry type="library" name="eflame" level="project" />
+    <orderEntry type="library" name="backtrex" level="project" />
   </component>
 </module>

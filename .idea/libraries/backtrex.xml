@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="backtrex" type="mix">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/backtrex/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/backtrex/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/backtrex/ebin" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/deps/backtrex/lib" />
+      <root url="file://$PROJECT_DIR$/deps/backtrex/lib" />
+      <root url="file://$PROJECT_DIR$/deps/backtrex/lib" />
+    </SOURCES>
+  </library>
+</component>
