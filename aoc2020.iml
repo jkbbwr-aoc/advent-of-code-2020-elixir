@@ -24,7 +24,7 @@
       <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/backtrex" />
       <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/backtrex" />
     </content>
-    <orderEntry type="jdk" jdkName="Elixir 1.11.0" jdkType="Elixir SDK" />
+    <orderEntry type="jdk" jdkName="Elixir 1.10.4 (2)" jdkType="Elixir SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="benchee" level="project" />
     <orderEntry type="library" name="deep_merge" level="project" />
